@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taji-dulmini&label=Profile%20views&color=0e75b6&style=flat" alt="taji-dulmini" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dulmi" target="blank"><img src="https://img.shields.io/twitter/follow/dulmi?logo=twitter&style=for-the-badge" alt="dulmi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ChandraDul55678" target="blank"><img src="https://img.shields.io/twitter/follow/dulmi?logo=twitter&style=for-the-badge" alt="dulmi" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
